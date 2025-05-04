@@ -4,11 +4,32 @@
 
 ---
 
-### 🧑‍💬 General Introduction & Career Journey
+### 🌟 **General Introduction Questions**
 
-- Tell me about yourself and your experience as an Angular developer.
-- How did you grow from a junior to a mid/senior-level frontend engineer?
-- What led you to specialize in Angular, and what keeps you engaged in the framework?
+1. **Can you please introduce yourself and give us a brief overview of your professional background?**
+2. **What motivated you to pursue a career in Frontend development?**
+3. **How did you get started with Angular (or frontend technologies in general)?**
+4. **What do you enjoy most about working in frontend development?**
+5. **Walk me through your typical workday as a frontend developer in your last role.**
+6. **How do you keep your frontend skills up to date with the latest technologies and best practices?**
+7. **Do you have experience working in Agile/Scrum environments? Could you describe it?**
+8. **What’s your preferred tech stack for frontend projects and why?**
+9. **How did you grow from a junior to a mid/senior-level frontend engineer?**
+
+---
+
+### 🚀 **Career Journey & Project Experience Questions**
+
+1. **Can you describe one of the most challenging frontend projects you have worked on?**
+2. **Tell me about your experience using Angular in your previous projects. What versions have you worked with?**
+3. **What are some key contributions you made in your last job/project?**
+4. **Have you ever led a team or mentored junior developers? If yes, tell us about that experience.**
+5. **Have you had to collaborate with backend teams? How do you usually manage API integrations and align with backend changes?**
+6. **Tell me about a time when you had to optimize a slow-performing frontend application. What steps did you take?**
+7. **Have you worked with responsive or mobile-first design? Share some challenges you faced and how you solved them.**
+8. **How comfortable are you with version control systems like Git? Can you tell us about your workflow?**
+9. **Have you ever migrated an application from an older frontend framework (like AngularJS or jQuery) to a modern one like Angular 12+ or React?**
+10. **Can you share an experience where you had to deal with cross-browser compatibility issues? How did you resolve them?**
 
 ---
 
